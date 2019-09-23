@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# MES4SME
+**M**anufacturing **E**xecution **S**ystem for **S**mall and **M**edium-Sized **E**nterprises
 
-You can use the [editor on GitHub](https://github.com/mes4sme/mes4sme.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Die dynamische Natur produktionsprozessbezogener Parameter erfordert den Einbezug von Unsicherheiten in die Fertigungsplanung. Bei der Produktionsplanung für Einzelfertiger besteht eine besondere Herausforderung, da diese Prozessparameter aufgrund der Individualität der einzelnen Kundenaufträge schwer abschätzbar sind.
+Hier setzt das MES4SME Projekt an um mithilfe datengetriebener Optimierungsverfahren die effiziente Produktionsplanung im Kontext von Einzelfertigung zu erforschen.
+Konkret hat MES4SME folgende Ziele:
+* Integrationskomponente zur Sammlung, Aufbereitung und Bereitstellung aller erhobenen Produktionsdaten
+* Process Mining Komponente zur datengetriebenen Identifikation der Produktionsprozesse für alle Produktvarianten
+* Predictive Analysis Methoden zur Schätzung von Prozessvariablen, Materialfluss und Maschinenzustand
+* Kognitives Dashboard für die nachvollziehbare Kommunikation der Predictive Analysis Ergebnisse für Experten
+* Multikriterielle Optimierung der Produktionspläne
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Projektkonsortium
 
-### Markdown
+* FASTEC GmbH, Paderborn (Entwicklungspartner)
+* pmOne Analytics GmbH, Paderborn (Entwicklungspartner)
+* Deutsches Forschungszentrum für Künstliche Intelligenz GmbH (DFKI), Saarbrücken (Forschungspartner)
+* Brabant & Lehnert GmbH, Wadern (Anwendungspartner)
+* Verband Deutscher Maschinen- und Anlagenbau (VDMA), Frankfurt (Assoziierter Partner)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Förderung
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mes4sme/mes4sme.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+MES4SME ist eine Fördermaßnahme des Bundesministerium für Bildung und Forschung (BMBF, KMU-innovativ: IKT, Forschunkskennzeichen 01IS18021A, 01IS18021B, 01IS18021C). [Link zum Projektblatt](https://www.softwaresysteme.pt-dlr.de/media/content/Projektblatt_MES4SME.pdf)
