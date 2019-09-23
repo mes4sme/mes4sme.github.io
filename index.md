@@ -1,6 +1,3 @@
-# MES4SME
-**M**anufacturing **E**xecution **S**ystem for **S**mall and **M**edium-Sized **E**nterprises
-
 Die dynamische Natur produktionsprozessbezogener Parameter erfordert den Einbezug von Unsicherheiten in die Fertigungsplanung. Bei der Produktionsplanung für Einzelfertiger besteht eine besondere Herausforderung, da diese Prozessparameter aufgrund der Individualität der einzelnen Kundenaufträge schwer abschätzbar sind.
 Hier setzt das MES4SME Projekt an um mithilfe datengetriebener Optimierungsverfahren die effiziente Produktionsplanung im Kontext von Einzelfertigung zu erforschen.
 Konkret hat MES4SME folgende Ziele:
